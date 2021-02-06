@@ -6,10 +6,13 @@ section{
 }
 h2{
     color: palevioletred;
-    font-size: 50px;
+    font-size: 43px;
+}
+.down{
+    margin-top: 50px;
 }
 .first-site{
-    width: 40%;
+    width: 45%;
     float: left;
     margin-left: 40px;
 }
@@ -17,7 +20,7 @@ h2{
     margin-left: 2%;
 }
 .right{
-    margin-left: 35px%;
+    margin-left: 35px;
 }
 A{
     color: papayawhip;
@@ -40,8 +43,8 @@ img{
     display: inline-block;
 }
 .pic{
-    width: 30%;
-    display: inline;
+    width: 32%;
+    display: inline-block;
 }
 #text{
     text-align: center;
