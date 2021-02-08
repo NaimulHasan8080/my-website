@@ -9,7 +9,7 @@ h2{
     font-size: 43px;
 }
 .down{
-    margin-top: 50px;
+    margin-top: 100px;
 }
 .first-site{
     width: 45%;
@@ -48,4 +48,44 @@ img{
 }
 #text{
     text-align: center;
+}
+.ending-part{
+    text-align: center;
+}
+#gmail{
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid palevioletred;
+    margin: 100px 100px;
+    background-color: palevioletred;
+}
+footer{
+    text-align: center;
+}
+.mid{
+    margin-top: 100px;
+    padding-left: 100px;
+}
+video{
+    width: 50%;
+    height: 100px;
+}
+td{
+    border: 1px solid gray;
+    padding: 0 30px;
+}
+th{
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+table{
+    border-collapse: collapse;
+    padding:20px 10px;
+}
+.table-creat{
+    position: relative;
+}
+button,a:hover{
+    color: grey;
+    font-size: 20px;
 }
